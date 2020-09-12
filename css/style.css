@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: rgb(120, 129, 212);
+    background-image: url(../images/wall2.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+h1{
+    color: rgb(93, 107, 231);
+    font-size: 80px;
+}
+
+p{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    text-align: justify;
+}
+
+a{
+    color: #fff;
+}
